@@ -1,31 +1,47 @@
-🎓 Estudante de Ciência da Computação na Universidade Feevale.
+# 🎮 Loja Gamer — Análise de Dados
 
-📊 Tenho interesse em Análise de Dados e Data Science, com foco em bancos de dados e exploração de dados.
+Projeto de análise de dados de uma loja fictícia de produtos gamers, desenvolvido para aplicar conhecimentos de banco de dados, SQL, Python, Pandas e Power BI.
 
-🛠️ Tecnologias e ferramentas
+## 🎯 Objetivo
 
-SQL: PostgreSQL, modelagem de bancos de dados e consultas.
+Organizar e analisar dados de vendas, clientes, produtos e estoque, transformando informações em indicadores que possam auxiliar na tomada de decisões.
 
-Python: Pandas, análise e tratamento de dados.
+## 🛠️ Tecnologias utilizadas
 
-Power BI: Visualização de dados, dashboards e Business Intelligence.
+- **PostgreSQL:** gerenciamento do banco de dados.
+- **SQL:** consultas e extração de informações.
+- **Python:** manipulação e análise de dados.
+- **Pandas:** tratamento e exploração dos dados.
+- **Power BI:** criação de dashboards e visualizações.
 
-Ferramentas: Git e GitHub.
+## 🗄️ Estrutura do banco de dados
 
-📌 Projeto em destaque
+O banco de dados é composto pelas seguintes tabelas:
 
-Loja Gamer — Data Science
+- `produtos`
+- `clientes`
+- `vendas`
+- `itens_venda`
+- `estoque_movimentacao`
 
-Projeto de análise de dados de uma loja fictícia de games, utilizando PostgreSQL, Python, Pandas e Power BI para explorar informações sobre vendas, clientes, produtos e estoque.
+## 📊 Análises
 
-📚 Atualmente estudando
+O projeto busca explorar informações como:
 
-SQL e consultas avançadas.
+- Desempenho das vendas.
+- Produtos mais vendidos.
+- Faturamento por categoria.
+- Comportamento dos clientes.
+- Movimentações e níveis de estoque.
 
-Análise Exploratória de Dados (EDA).
+## 📌 Status do projeto
 
-Estatística aplicada à Ciência de Dados.
+🚧 Em desenvolvimento.
 
-Visualização de dados.
+## 👨‍💻 Autor
 
+**Francisco Ludwig**
 
+Estudante de Ciência da Computação na Universidade Feevale.
+
+[GitHub](https://github.com/kikoludwig)
